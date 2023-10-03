@@ -69,7 +69,7 @@ tqdm==4.64.1
 transformers==4.25.1
 typer==0.7.0
 typing-extensions==4.4.0
-urllib3==1.26.14
+urllib3==1.26.17
 wasabi==1.1.1
 wikipedia==1.4.0
 pyscreenshot==3.0
